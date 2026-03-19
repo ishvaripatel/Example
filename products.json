@@ -1,0 +1,5 @@
+[
+    {"name": "Teddy Bear", "price": "$15", "image": "https://via.placeholder.com/100"},
+    {"name": "Gift Box", "price": "$25", "image": "https://via.placeholder.com/100"},
+    {"name": "Greeting Card", "price": "$5", "image": "https://via.placeholder.com/100"}
+]
